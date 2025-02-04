@@ -1,0 +1,36 @@
+The eight security domains
+
+Security and risk management:
+ .Focused on defining security goals, risk mitigation, compliance (define organization's security policies), 
+business continuity and legal regulations.
+
+Asset Security:
+ .Focused on securing digital and physical assets, related to the storage, maintenance and destruction of data
+
+Security architecture and engineering:
+ .Optimizing data security by ensuring effective tools, systems and processes are in place to protect the org.
+ .Shared Responsibility: All individuals in the org take an active role in lowering the risk and maintaining
+physical and virtual security.
+
+Communication and Network Security:
+ .Securing wireless communication, blocking access to fragile types of communication like public wifi hotspots,
+insecure bluetooth connections, etc;
+
+Identity and access management:
+ .Focused on access and authorization to keep data safe, making sure users follow the established policies.
+ .Identification: Username, access card, biometric data, etc;
+ .Authentication: Password;
+ .Authorization: User already authenticated, this is related to the level of access an user has, roles;
+ .Accountability: Recording user actions like login attempts, etc;
+
+Security  Assessment and Testing:
+ .Conducting security control tests, collect and analyze data, conducting security audits to monitor risks
+ .Also analyze if the current control tools are achieving the goals	
+
+Security Operations:
+ .Investigations and implementing preventative measures.
+ .Its different from the previous domain because the investivations only start 
+once a security incident has been identified
+
+Software Development Security:
+ .Using secure coding practices

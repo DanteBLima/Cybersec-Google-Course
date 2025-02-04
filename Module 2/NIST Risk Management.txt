@@ -1,0 +1,17 @@
+NIST (National Institute of Standards and Technology)
+
+
+Risk Management Framework(RMF)
+ .Prepare: Activities that are necessary to manage security and privacy risks before a breach occurs
+
+ .Categorize: Create tasks to how to deal with it.
+
+ .Select: Gather documentation about the controls that protect an organization, such as a playbook
+
+ .Implement: Implement security and privacy plans.
+
+ .Assess: Determine if established controls are implemented correctly
+
+ .Authorize: Be accountable for the risks that may exist in the organization
+
+ .Monitor: Be aware of how systems are operating and if they are achieving the goals of the org.

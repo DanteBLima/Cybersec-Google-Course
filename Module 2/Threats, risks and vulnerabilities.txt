@@ -1,0 +1,34 @@
+Threat:
+ .Any circumnstance or event that can negatively impact assets
+
+Risk:
+ .Anything that can impact the confidentiality, integrity or availability of an asset. Ex: Lack of backup
+
+ -Low risk asset:
+   .Information that wouldnt harm the orgs reputation and wouldnt cause financial damage if compromised
+ 
+ -Medium risk asset:
+   .Information thats not available to the public and may cause damage to the orgs finances, reputation or operation.
+
+ -High risk asset:
+   .Information protected by law or regulations, if compromised would have severe negative impact to the orgs
+finances, operations or reputation.
+
+
+Vulnerability:
+ .A weakness that can be exploited by a threat
+
+OBS: Both Threat and Vulnerability must be present in order to be a Risk.
+
+
+
+Ransomware:
+ .A malicious attack where threat actors encrypt the organization's data and demand payment to restore access.
+
+
+
+Key impacts of threats, risks and vulnerabilities
+ .Financial
+ .Identity theft
+ .Reputation
+
