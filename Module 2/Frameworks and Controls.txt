@@ -1,0 +1,19 @@
+Difference between Framework and Control
+
+Framework: Guideline to help building plans to mitigate risk and threats, they help the org
+follow the laws and regulations compliance.
+
+Control: Safeguards to deal with specific security risks, they are the measures used to lower
+risk and threats to data and privacy.
+
+
+
+Cyber Threat Framework (CTF)
+ 
+ Provides a common language for communicating information about cyber threat activity. This
+helps professionals to communicate more efficiently with each other and keep track of the constantly
+evolving area that is cybersecurity.
+
+International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27001
+
+ 

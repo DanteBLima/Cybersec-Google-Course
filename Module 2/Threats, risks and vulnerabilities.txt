@@ -1,5 +1,9 @@
 Threat:
  .Any circumnstance or event that can negatively impact assets
+  .Tipos mais comuns de ameaças:
+ 	-Internas: Membros da equipe ou fornecedores abusam do acesso privilegiado para obter dados da org.
+ 	-Ameaças persistentes avançadas(APTs): Um agente de ameaça mantém um acesso não autorizado ao sistema por
+muito tempo.
 
 Risk:
  .Anything that can impact the confidentiality, integrity or availability of an asset. Ex: Lack of backup
@@ -14,11 +18,25 @@ Risk:
    .Information protected by law or regulations, if compromised would have severe negative impact to the orgs
 finances, operations or reputation.
 
+ -Risco interno: Funcionário, fornecedor ou parceiro de confiança, tanto atual quanto antigo, represente um risco.
+ -Risco externo: Tudo fora da org que tenha potencial de prejudicá-la, como um agente de ameaça.
+ -Sistemas legados: Sistemas antigos que podem não ser mais atualizados, mas que impactam os recursos da org.
+
 
 Vulnerability:
  .A weakness that can be exploited by a threat
 
 OBS: Both Threat and Vulnerability must be present in order to be a Risk.
+
+ -ProxyLogon: Vulnerabilidade pré autenticada; um agente de ameaça pode concluir uma autenticação de usuário para
+implantar código malicioso. Essa vulnerabilidade afeta o servidor Microsoft Exchange.
+ -ZeroLogon: Mesma coisa do ProxyLogon, porém é uma vulnerabilidade no protocolo de autent. NetLogon Microsoft.
+ -Log4Shell: Permite o atacante realizar programação Java no pc de outra pessoa, é um ataque remoto que assume o
+controle dos dispositivos conectados a internet.
+ -PetitPotam: Afeta o New Technology Local Area Rede Manager do Windows, técnica de roubo que permite ataque em LAN.
+ -Falha na geração de registros e monitoramento de segurança: Atacantes exploram as vulnerabilidades sem que a org saiba.
+ -Falsificação de solicitação no lado do servidor: Manipulem um aplicativo do lado do servidor para acessar recursos
+do backend.
 
 
 
@@ -31,4 +49,6 @@ Key impacts of threats, risks and vulnerabilities
  .Financial
  .Identity theft
  .Reputation
+
+
 
